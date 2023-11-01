@@ -11,7 +11,7 @@ import proj3 from "public/images/projects/cricket.jpeg";
 import proj4 from "public/images/projects/Email Spam.png";
 import proj5 from "public/images/projects/Book.png";
 import proj6 from "public/images/projects/Wine.png";
-import proj7 from "public/images/projects/Home.jpeg";
+import proj7 from "public/images/projects/home.jpeg";
 import proj8 from "public/images/projects/Ads.png";
 import proj9 from "public/images/projects/homeloan.jpeg";
 import TransitionEffect from "@/components/TransitionEffect";
